@@ -321,7 +321,8 @@ div.hope-c-PJLV-ibcBsNO-css div.hope-c-PJLV-ihWgyFw-css {
 /**登录框*/
 div.hope-c-PJLV-ibcBsNO-css div.hope-c-PJLV-iubUra-css,
 div.hope-c-PJLV-ibcBsNO-css .hope-c-PJLV-ifjOQLV-css {
-  background-color: rgba(var(--mio-main), 0.5);
+  background-image: url('https://minas.mihoyo.com/media/custom/login-bg.jpg');
+/* miHoYo Official */
   backdrop-filter: blur(5px);
 }
 
