@@ -268,7 +268,7 @@ div#root div.body svg {
 
 /**底部*/
 div#root div.footer {
-  display: flex;
+  display: none;
 }
 
 /**工具栏*/
