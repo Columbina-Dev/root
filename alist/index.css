@@ -1,6 +1,16 @@
 /**
  * Altered From: https://github.com/kasuie/alist-customize/
  */
+.hide-scrollbar {
+    overflow: auto;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+    display: none;
+}
+
 :root {
   --mio-main: 255, 255, 255;
   --mio-text: 0, 0, 0;
@@ -258,7 +268,7 @@ div#root div.body svg {
 
 /**底部*/
 div#root div.footer {
-  display: none;
+  display: flex;
 }
 
 /**工具栏*/
