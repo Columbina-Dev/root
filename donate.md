@@ -1,7 +1,7 @@
 # Cryptocurrency
 ## ETH
 ```
-0xd488Fc211Fa9f6dd40B6b18084Fa12A34e63D025
+ethereum:0xd488Fc211Fa9f6dd40B6b18084Fa12A34e63D025
 ```
 ## BTC
 ```
