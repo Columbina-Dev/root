@@ -53,7 +53,7 @@ body::before {
   background-size: cover;
   background-repeat: no-repeat;
   z-index: 0;
-  background-image: url('https://api.tomys.top/api/acgimg');
+  background-image: url('https://api.columbina.dev/api/acgimg');
   font-family: "Sora", serif;
   font-optical-sizing: auto;
   font-weight: 400;
@@ -62,7 +62,7 @@ body::before {
 
 @media screen and (max-width: 960px) {
   body::before {
-    background-image: url('https://api.tomys.top/api/acgimg');
+    background-image: url('https://api.columbina.dev/api/acgimg');
   }
 }
 
